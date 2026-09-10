@@ -17,4 +17,4 @@ student = {
 }
 
 print("name" in student)   
-print("Akash" in student)  
+print("Akash" not in student)  

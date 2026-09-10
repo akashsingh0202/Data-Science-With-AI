@@ -97,5 +97,35 @@ select
  d.location
 from employee e
 inner join department d
-on e.department_id=d.department_id;
+on e.department_id=d.department_id
+order by employee_id;
+
+
+-- left join
+select
+ e.employee_id,
+ e.employee_name,
+ e.department_id,
+ d.department_name,
+ d.location
+from employee e
+left join department d
+on e.department_id=d.department_id
+order by employee_id;
+
+
+select
+ e.employee_id,
+ e.employee_name,
+ e.department_id,
+ d.department_name,
+ d.location
+from employee e
+right join department d
+on e.department_id=d.department_id
+order by employee_id;
+
+
+
+
 
