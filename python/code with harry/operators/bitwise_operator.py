@@ -1,0 +1,7 @@
+print(5 & 3)
+print(5 | 3)
+print(5 ^ 3)
+print(~5)
+print(5 & 3)
+print(5 << 1)
+print(20 >> 2)

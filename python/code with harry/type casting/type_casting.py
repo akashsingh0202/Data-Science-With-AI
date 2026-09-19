@@ -1,0 +1,10 @@
+a="akash"
+b=12
+c=12.22
+d="A"
+e=False
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
