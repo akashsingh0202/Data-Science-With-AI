@@ -1,0 +1,546 @@
+[
+    {
+        "customer_id": "C001",
+        "customer_name": "Rahul",
+        "age": 28,
+        "city": "Hyderabad",
+        "product": "Laptop",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 55000
+    },
+    {
+        "customer_id": "C002",
+        "customer_name": "Priya",
+        "age": 24,
+        "city": "Vijayawada",
+        "product": "Smartphone",
+        "category": "Electronics",
+        "quantity": 2,
+        "price": 25000
+    },
+    {
+        "customer_id": "C003",
+        "customer_name": "Arjun",
+        "age": 31,
+        "city": "Bangalore",
+        "product": "Headphones",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 3500
+    },
+    {
+        "customer_id": "C004",
+        "customer_name": "Sneha",
+        "age": 27,
+        "city": "Chennai",
+        "product": "Running Shoes",
+        "category": "Footwear",
+        "quantity": 2,
+        "price": 4500
+    },
+    {
+        "customer_id": "C005",
+        "customer_name": "Vikram",
+        "age": 35,
+        "city": "Pune",
+        "product": "Office Chair",
+        "category": "Furniture",
+        "quantity": 1,
+        "price": 8500
+    },
+    {
+        "customer_id": "C006",
+        "customer_name": "Anjali",
+        "age": 22,
+        "city": "Hyderabad",
+        "product": "Smart Watch",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 7000
+    },
+    {
+        "customer_id": "C007",
+        "customer_name": "Kiran",
+        "age": 29,
+        "city": "Visakhapatnam",
+        "product": "Backpack",
+        "category": "Accessories",
+        "quantity": 3,
+        "price": 1800
+    },
+    {
+        "customer_id": "C008",
+        "customer_name": "Meena",
+        "age": 33,
+        "city": "Mumbai",
+        "product": "Coffee Maker",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 6500
+    },
+    {
+        "customer_id": "C009",
+        "customer_name": "Suresh",
+        "age": 40,
+        "city": "Delhi",
+        "product": "Television",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 42000
+    },
+    {
+        "customer_id": "C010",
+        "customer_name": "Divya",
+        "age": 26,
+        "city": "Vijayawada",
+        "product": "T-Shirt",
+        "category": "Clothing",
+        "quantity": 4,
+        "price": 1200
+    },
+    {
+        "customer_id": "C011",
+        "customer_name": "Ravi",
+        "age": 30,
+        "city": "Hyderabad",
+        "product": "Tablet",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 22000
+    },
+    {
+        "customer_id": "C012",
+        "customer_name": "Pooja",
+        "age": 25,
+        "city": "Bangalore",
+        "product": "Handbag",
+        "category": "Accessories",
+        "quantity": 2,
+        "price": 2800
+    },
+    {
+        "customer_id": "C013",
+        "customer_name": "Manoj",
+        "age": 37,
+        "city": "Chennai",
+        "product": "Dining Table",
+        "category": "Furniture",
+        "quantity": 1,
+        "price": 18000
+    },
+    {
+        "customer_id": "C014",
+        "customer_name": "Lakshmi",
+        "age": 32,
+        "city": "Pune",
+        "product": "Mixer Grinder",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 4500
+    },
+    {
+        "customer_id": "C015",
+        "customer_name": "Amit",
+        "age": 29,
+        "city": "Mumbai",
+        "product": "Jeans",
+        "category": "Clothing",
+        "quantity": 2,
+        "price": 2500
+    },
+    {
+        "customer_id": "C016",
+        "customer_name": "Neha",
+        "age": 23,
+        "city": "Delhi",
+        "product": "Sneakers",
+        "category": "Footwear",
+        "quantity": 1,
+        "price": 3800
+    },
+    {
+        "customer_id": "C017",
+        "customer_name": "Rohit",
+        "age": 34,
+        "city": "Hyderabad",
+        "product": "Monitor",
+        "category": "Electronics",
+        "quantity": 2,
+        "price": 15000
+    },
+    {
+        "customer_id": "C018",
+        "customer_name": "Swathi",
+        "age": 28,
+        "city": "Visakhapatnam",
+        "product": "Kettle",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 2200
+    },
+    {
+        "customer_id": "C019",
+        "customer_name": "Naveen",
+        "age": 41,
+        "city": "Bangalore",
+        "product": "Sofa",
+        "category": "Furniture",
+        "quantity": 1,
+        "price": 32000
+    },
+    {
+        "customer_id": "C020",
+        "customer_name": "Kavya",
+        "age": 26,
+        "city": "Chennai",
+        "product": "Kurti",
+        "category": "Clothing",
+        "quantity": 3,
+        "price": 1800
+    },
+    {
+        "customer_id": "C021",
+        "customer_name": "Varun",
+        "age": 36,
+        "city": "Pune",
+        "product": "Keyboard",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 3200
+    },
+    {
+        "customer_id": "C022",
+        "customer_name": "Ayesha",
+        "age": 27,
+        "city": "Mumbai",
+        "product": "Sunglasses",
+        "category": "Accessories",
+        "quantity": 2,
+        "price": 2200
+    },
+    {
+        "customer_id": "C023",
+        "customer_name": "Harish",
+        "age": 39,
+        "city": "Delhi",
+        "product": "Bookshelf",
+        "category": "Furniture",
+        "quantity": 1,
+        "price": 7500
+    },
+    {
+        "customer_id": "C024",
+        "customer_name": "Nisha",
+        "age": 30,
+        "city": "Hyderabad",
+        "product": "Air Fryer",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 6500
+    },
+    {
+        "customer_id": "C025",
+        "customer_name": "Sanjay",
+        "age": 33,
+        "city": "Vijayawada",
+        "product": "Formal Shirt",
+        "category": "Clothing",
+        "quantity": 2,
+        "price": 1600
+    },
+    {
+        "customer_id": "C026",
+        "customer_name": "Deepika",
+        "age": 24,
+        "city": "Bangalore",
+        "product": "Sports Shoes",
+        "category": "Footwear",
+        "quantity": 1,
+        "price": 5200
+    },
+    {
+        "customer_id": "C027",
+        "customer_name": "Tarun",
+        "age": 28,
+        "city": "Chennai",
+        "product": "Gaming Mouse",
+        "category": "Electronics",
+        "quantity": 2,
+        "price": 1800
+    },
+    {
+        "customer_id": "C028",
+        "customer_name": "Ramesh",
+        "age": 45,
+        "city": "Pune",
+        "product": "Recliner",
+        "category": "Furniture",
+        "quantity": 1,
+        "price": 25000
+    },
+    {
+        "customer_id": "C029",
+        "customer_name": "Shreya",
+        "age": 22,
+        "city": "Mumbai",
+        "product": "Watch",
+        "category": "Accessories",
+        "quantity": 1,
+        "price": 4500
+    },
+    {
+        "customer_id": "C030",
+        "customer_name": "Aditya",
+        "age": 31,
+        "city": "Delhi",
+        "product": "Refrigerator",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 36000
+    },
+    {
+        "customer_id": "C031",
+        "customer_name": "Madhuri",
+        "age": 29,
+        "city": "Hyderabad",
+        "product": "Saree",
+        "category": "Clothing",
+        "quantity": 2,
+        "price": 3500
+    },
+    {
+        "customer_id": "C032",
+        "customer_name": "Ajay",
+        "age": 38,
+        "city": "Visakhapatnam",
+        "product": "Printer",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 12500
+    },
+    {
+        "customer_id": "C033",
+        "customer_name": "Bhavana",
+        "age": 26,
+        "city": "Vijayawada",
+        "product": "Sandals",
+        "category": "Footwear",
+        "quantity": 2,
+        "price": 1800
+    },
+    {
+        "customer_id": "C034",
+        "customer_name": "Krishna",
+        "age": 42,
+        "city": "Bangalore",
+        "product": "Washing Machine",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 28000
+    },
+    {
+        "customer_id": "C035",
+        "customer_name": "Sowmya",
+        "age": 23,
+        "city": "Chennai",
+        "product": "Wallet",
+        "category": "Accessories",
+        "quantity": 2,
+        "price": 1200
+    },
+    {
+        "customer_id": "C036",
+        "customer_name": "Mahesh",
+        "age": 35,
+        "city": "Pune",
+        "product": "Office Desk",
+        "category": "Furniture",
+        "quantity": 1,
+        "price": 9500
+    },
+    {
+        "customer_id": "C037",
+        "customer_name": "Riya",
+        "age": 27,
+        "city": "Mumbai",
+        "product": "Jacket",
+        "category": "Clothing",
+        "quantity": 1,
+        "price": 4200
+    },
+    {
+        "customer_id": "C038",
+        "customer_name": "Vijay",
+        "age": 40,
+        "city": "Delhi",
+        "product": "Smart TV",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 48000
+    },
+    {
+        "customer_id": "C039",
+        "customer_name": "Sanjana",
+        "age": 25,
+        "city": "Hyderabad",
+        "product": "Slippers",
+        "category": "Footwear",
+        "quantity": 3,
+        "price": 900
+    },
+    {
+        "customer_id": "C040",
+        "customer_name": "Prakash",
+        "age": 36,
+        "city": "Vijayawada",
+        "product": "Microwave Oven",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 11000
+    },
+    {
+        "customer_id": "C041",
+        "customer_name": "Keerthi",
+        "age": 28,
+        "city": "Bangalore",
+        "product": "Laptop Bag",
+        "category": "Accessories",
+        "quantity": 2,
+        "price": 1600
+    },
+    {
+        "customer_id": "C042",
+        "customer_name": "Ganesh",
+        "age": 44,
+        "city": "Chennai",
+        "product": "Bed",
+        "category": "Furniture",
+        "quantity": 1,
+        "price": 30000
+    },
+    {
+        "customer_id": "C043",
+        "customer_name": "Harini",
+        "age": 21,
+        "city": "Pune",
+        "product": "Top",
+        "category": "Clothing",
+        "quantity": 3,
+        "price": 1000
+    },
+    {
+        "customer_id": "C044",
+        "customer_name": "Mohan",
+        "age": 39,
+        "city": "Mumbai",
+        "product": "Bluetooth Speaker",
+        "category": "Electronics",
+        "quantity": 1,
+        "price": 3500
+    },
+    {
+        "customer_id": "C045",
+        "customer_name": "Tejaswi",
+        "age": 30,
+        "city": "Delhi",
+        "product": "Heels",
+        "category": "Footwear",
+        "quantity": 1,
+        "price": 2800
+    },
+    {
+        "customer_id": "C046",
+        "customer_name": "Surya",
+        "age": 32,
+        "city": "Visakhapatnam",
+        "product": "Air Conditioner",
+        "category": "Home Appliances",
+        "quantity": 1,
+        "price": 42000
+    },
+    {
+        "customer_id": "C047",
+        "customer_name": "Lavanya",
+        "age": 27,
+        "city": "Hyderabad",
+        "product": "Dress",
+        "category": "Clothing",
+        "quantity": 2,
+        "price": 2400
+    },
+    {
+        "customer_id": "C048",
+        "customer_name": "Rakesh",
+        "age": 37,
+        "city": "Vijayawada",
+        "product": "Power Bank",
+        "category": "Electronics",
+        "quantity": 2,
+        "price": 1500
+    },
+    {
+        "customer_id": "C049",
+        "customer_name": "Archana",
+        "age": 34,
+        "city": "Bangalore",
+        "product": "Dining Chairs",
+        "category": "Furniture",
+        "quantity": 4,
+        "price": 3500
+    },
+    {
+        "customer_id": "C050",
+        "customer_name": "Naresh",
+        "age": 43,
+        "city": "Chennai",
+        "product": "Trolley Bag",
+        "category": "Accessories",
+        "quantity": 1,
+        "price": 5500
+    },
+    {
+        "customer_id": "C052",
+        "customer_name": "Anwar",
+        "age": 40,
+        "city": "hyd",
+        "product": "jeans",
+        "category": "jeans",
+        "quantity": 3,
+        "price": 4500,
+        "total_price": 13500
+    },
+    {
+        "customer_id": "C0123",
+        "customer_name": "ANNU",
+        "age": 100,
+        "city": "string",
+        "product": "string",
+        "category": "string",
+        "quantity": 30,
+        "price": 100,
+        "total_price": 3000
+    },
+    {
+        "customer_id": "C004532",
+        "customer_name": "RAHUL",
+        "age": 35,
+        "city": "hyd",
+        "product": "jeans",
+        "category": "clothing",
+        "quantity": 3,
+        "price": 1500,
+        "total_price": 4500
+    },
+    {
+        "customer_id": "C004678",
+        "customer_name": "SHYAM",
+        "age": 60,
+        "city": "hyd",
+        "product": "shirts",
+        "category": "clothing",
+        "quantity": 5,
+        "price": 1500,
+        "total_price": 7500
+    }
+]
