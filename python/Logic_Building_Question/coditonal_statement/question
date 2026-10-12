@@ -1,0 +1,138 @@
+Level 1: Basic (1–10)
+Basic questions
+0/40 completed
+
+
+
+[ ] 1. Check whether a number is positive, negative, or zero.
+Example: Enter a number: -5 → Negative number
+
+[ ] 2. Check whether a number is even or odd.
+Example: Enter a number: 8 → Even
+
+[ ] 3. Find the greater of two numbers.
+Example: a = 10, b = 20 → 20 is greater
+
+[ ] 4. Find the greatest of three numbers.
+Example: 10, 25, 15 → 25 is greatest
+
+[ ] 5. Check whether a person is eligible to vote (age ≥ 18).
+Example: Age: 20 → Eligible
+
+[ ] 6. Check whether a number is divisible by 5.
+Example: Number: 25 → Divisible by 5
+
+[ ] 7. Check whether a number is divisible by both 3 and 7.
+Example: Number: 21 → Divisible by both
+
+[ ] 8. Check whether a number is a single-digit or a multiple-digit number.
+Example: Number: 8 → Single-digit
+
+[ ] 9. Check whether a character is a vowel or consonant.
+Example: Character: a → Vowel
+
+[ ] 10. Check whether a number is zero or non-zero.
+Example: Number: 0 → Zero
+
+
+Level 2: Easy (11–20)
+[ ] 11. Check whether a year is a leap year.
+Example: 2024 → Leap year
+
+[ ] 12. Assign a grade based on marks: A (90+), B (75–89), C (60–74), D (40–59), Fail (below 40).
+Example: Marks: 82 → Grade B
+
+[ ] 13. Check whether a person is eligible for a driving licence (age ≥ 18).
+Example: Age: 16 → Not eligible
+
+[ ] 14. Check whether three sides form a valid triangle.
+Example: Sides: 3, 4, 5 → Valid triangle
+
+[ ] 15. Classify a triangle as equilateral, isosceles, or scalene.
+Example: Sides: 5, 5, 8 → Isosceles
+
+[ ] 16. Check whether a character is uppercase or lowercase.
+Example: Character: A → Uppercase
+
+[ ] 17. Check whether a number is a two-digit number.
+Example: Number: 45 → Two-digit
+
+[ ] 18. Check whether the last digit of a number is 5.
+Example: Number: 125 → Yes
+
+[ ] 19. Calculate the absolute value of a number without using abs().
+Example: Number: -12 → 12
+
+[ ] 20. Check whether a student passes or fails in three subjects (pass mark 33 in each).
+Example: Marks: 50, 60, 20 → Fail
+
+
+Level 3: Intermediate (21–30)
+[ ] 21. Build a calculator using an operator (+, -, *, /).
+Example: 10 * 5 → 50
+
+[ ] 22. Calculate a discount: 10% for purchases ≥ ₹1,000, otherwise no discount.
+Example: ₹1,500 → ₹1,350 after discount
+
+[ ] 23. Calculate electricity charges using slabs: first 100 units ₹2/unit, next 100 ₹3/unit, above 200 ₹5/unit.
+Example: 150 units → ₹350
+
+[ ] 24. Check whether a number is divisible by 2, 3, both, or neither.
+Example: Number: 6 → Divisible by both
+
+[ ] 25. Find the middle value among three distinct numbers.
+Example: 10, 30, 20 → 20
+
+[ ] 26. Check whether a given month number has 28, 30, or 31 days (ignore leap years).
+Example: Month: 4 → 30 days
+
+[ ] 27. Calculate a bonus: salary ≥ ₹50,000 gets 10%, otherwise 5%.
+Example: ₹60,000 → ₹6,000 bonus
+
+[ ] 28. Calculate BMI category from BMI value: below 18.5 underweight, below 25 normal, below 30 overweight, otherwise obese.
+Example: BMI: 23 → Normal
+
+[ ] 29. Check whether a given time in hours is morning (5–11), afternoon (12–16), evening (17–20), or night (otherwise).
+Example: Hour: 14 → Afternoon
+
+[ ] 30. Calculate profit, loss, or no profit/no loss using cost price and selling price.
+Example: CP: 500, SP: 650 → Profit ₹150
+
+
+Level 4: Advanced (31–40)
+[ ] 31. Check whether a character is an alphabet, digit, or special character.
+Example: Character: @ → Special character
+
+[ ] 32. Create a login check using a username and password.
+Example: Correct credentials → Login successful
+
+[ ] 33. Calculate income tax using slabs: up to ₹3 lakh = 0%, ₹3–7 lakh = 5%, ₹7–10 lakh = 10%, above ₹10 lakh = 15%. Apply each rate only to income within that slab.
+Example: Taxable income: ₹8 lakh → ₹35,000 tax
+
+[ ] 34. Check whether a given date is valid (assume day, month, and year are entered).
+Example: 31/02/2024 → Invalid date
+
+[ ] 35. Calculate a mobile bill based on usage: up to 100 minutes ₹100, 101–300 minutes ₹200, above 300 minutes ₹350.
+Example: 250 minutes → ₹200
+
+[ ] 36. Check whether a person qualifies for a scholarship: marks ≥ 85 and family income < ₹3 lakh.
+Example: Marks: 90, income: ₹2 lakh → Eligible
+
+[ ] 37. Determine whether three angles form a valid triangle and classify it as acute, right, or obtuse.
+Example: Angles: 90°, 60°, 30° → Right triangle
+
+[ ] 38. Create a simple ATM withdrawal check: balance sufficient and withdrawal amount is a multiple of ₹100.
+Example: Balance ₹5,000, withdrawal ₹1,000 → Allowed
+
+[ ] 39. Calculate a shipping fee: order ≥ ₹2,000 is free; otherwise charge ₹100 for local delivery or ₹200 for outside-city delivery.
+Example: ₹1,000, outside-city → ₹200 fee
+
+[ ] 40. Create a ticket-price calculator: child under 12 gets 50% off, senior 60+ gets 30% off, others pay full price.
+Example: Age: 10, ticket ₹500 → ₹250
+
+
+Practice kaise karni hai?
+- Rule 1: Pehle if, elif, else se solve karo.
+- Rule 2: Questions 1–10 mein basic conditions strong karo.
+- Rule 3: Phir next level par jao; loops abhi use mat karna.
+- Rule 4: Har question ka code mujhe bhejo. Main output, logic aur mistakes check karunga

@@ -1,0 +1,240 @@
+Part 1 — Functions: Basic
+Q1. Hello message
+
+Q2. Sum of two numbers
+
+Q3. Even or odd
+
+Q4. Square of a number
+
+Q5. Maximum of two numbers
+
+
+[ ] 
+Q6. Maximum of three numbers
+
+
+[ ] 
+Q7. Positive, negative or zero
+
+
+[ ] 
+Q8. Celsius to Fahrenheit
+
+
+[ ] 
+Q9. Multiplication table
+
+
+[ ] 
+Q10. Factorial using loop
+
+
+
+Part 2 — Functions: Intermediate
+[ ] 
+Q11. Prime number
+
+
+[ ] 
+Q12. Count vowels
+
+
+[ ] 
+Q13. Reverse a string
+
+
+[ ] 
+Q14. Palindrome
+
+
+[ ] 
+Q15. Sum of digits
+
+
+[ ] 
+Q16. Count digits
+
+
+[ ] 
+Q17. GCD of two numbers
+
+
+[ ] 
+Q18. List sum
+
+
+[ ] 
+Q19. Second-largest element
+
+
+[ ] 
+Q20. Remove duplicates
+
+
+
+Part 3 — Functions: Advanced
+[ ] 
+Q21. *args
+
+
+[ ] 
+Q22. **kwargs
+
+
+[ ] 
+Q23. Default arguments
+
+
+[ ] 
+Q24. Lambda function
+
+
+[ ] 
+Q25. map()
+
+
+[ ] 
+Q26. filter()
+
+
+[ ] 
+Q27. Sorting
+
+
+[ ] 
+Q28. Anagram
+
+
+[ ] 
+Q29. Fibonacci using loop
+
+
+[ ] 
+Q30. Function composition
+
+
+
+Part 4 — Recursion: Basic
+[ ] 
+Q31. Print 1 to N
+
+
+[ ] 
+Q32. Print N to 1
+
+
+[ ] 
+Q33. Sum 1 to N
+
+
+[ ] 
+Q34. Factorial using recursion
+
+
+[ ] 
+Q35. Power using recursion
+
+
+[ ] 
+Q36. Fibonacci using recursion
+
+
+[ ] 
+Q37. Sum of digits
+
+
+[ ] 
+Q38. Count digits
+
+
+[ ] 
+Q39. Reverse counting with step
+
+
+[ ] 
+Q40. Reverse a string
+
+
+
+Part 5 — Recursion: Intermediate
+[ ] 
+Q41. GCD using recursion
+
+
+[ ] 
+Q42. Palindrome using recursion
+
+
+[ ] 
+Q43. List sum using recursion
+
+
+[ ] 
+Q44. Maximum in a list
+
+
+[ ] 
+Q45. Count occurrences
+
+
+[ ] 
+Q46. Decimal to binary
+
+
+[ ] 
+Q47. Product of digits
+
+
+[ ] 
+Q48. Recursive multiplication
+
+
+[ ] 
+Q49. Flatten a nested list
+
+
+[ ] 
+Q50. Recursive list search
+
+
+
+Part 6 — Recursion: Advanced
+[ ] 
+Q51. Tower of Hanoi
+
+
+[ ] 
+Q52. Generate permutations
+
+
+[ ] 
+Q53. Generate subsets
+
+
+[ ] 
+Q54. Binary search
+
+
+[ ] 
+Q55. Merge sort
+
+
+[ ] 
+Q56. Quick sort
+
+
+[ ] 
+Q57. Balanced parentheses
+
+
+[ ] 
+Q58. Maze paths
+
+
+[ ] 
+Q59. Memoized Fibonacci
+
+
+[ ] 
+Q60. Recursive backtracking
