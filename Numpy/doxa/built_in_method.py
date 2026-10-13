@@ -37,14 +37,20 @@ import numpy as np
 # print(ar7)
 # print(ar7.T)
 
-# iterate
+# # iterate
 
-ar8=np.array([[1,2,3,4],[5,6,7,8]])
-# flatten is a copy
-# print(ar8.flatten())
+# ar=np.array([[2,3,4],[5,6,7]])
+# for i in ar:
+#     for j in i:
+#         print(j,end=" ")
 
-# ravel is view
-print(ar8.ravel())
+# ar8=np.array([[1,2,3,4],[5,6,7,8]])
+# # flatten is a copy
+# # print(ar8.flatten())
+
+# # ravel is view
+# print(ar8.ravel())
+
 
 
 
