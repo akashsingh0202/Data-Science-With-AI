@@ -1,4 +1,1 @@
-new_arr = arr.ravel()
-
-# print(new_arr)
-# print(arr)
+np.dot(ar1,ar2)
