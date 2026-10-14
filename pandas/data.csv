@@ -1,0 +1,12 @@
+
+student_id,name,age,city,course,marks,attendance,fees
+101,Aman,20,Rewa,Python,78,85,12000
+102,Priya,21,Delhi,Data Science,92,92,18000
+103,Rahul,19,Bhopal,Python,56,70,12000
+104,Neha,22,Rewa,SQL,85,88,8000
+105,Vikas,20,Indore,Data Science,67,76,18000
+106,Anjali,21,Delhi,Python,95,95,12000
+107,Rohit,23,Bhopal,SQL,43,60,8000
+108,Sneha,19,Rewa,Data Science,88,90,18000
+109,Karan,22,Indore,Python,72,82,12000
+110,Pooja,20,Delhi,SQL,60,65,8000
