@@ -1,0 +1,12 @@
+import pandas as pd
+df=pd.read_excel("pandas/sales_dataset_50.xlsx")
+# print(df)
+# print(df.head())
+# print(df.head(10))
+# print(df.tail())
+# print(df.tail(10))
+# print(df.sample())
+# print(df.sample(10))
+# print(df.info())
+# print(df.info(10))
+print(df.describe())
