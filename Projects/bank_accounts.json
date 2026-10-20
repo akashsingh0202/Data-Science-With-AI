@@ -4,5 +4,13 @@
         "balance": 100000,
         "account_number": "41016007",
         "transactions": []
+    },
+    "94801778": {
+        "name": "badal hotha",
+        "balance": 5001,
+        "account_number": "94801778",
+        "transactions": [
+            "Deposited: \u20b95000"
+        ]
     }
 }
