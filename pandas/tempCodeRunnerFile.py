@@ -1,0 +1,1 @@
+print(s.value_counts())
