@@ -1,1 +1,1 @@
-print(s.value_counts())
+df=pd.read_excel("pandas/sales_dataset_50.xlsx")
