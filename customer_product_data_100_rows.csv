@@ -1,0 +1,101 @@
+User_ID,Cust_name,Product_ID,Gender,Age Group,Age,Marital_Status,State,Zone,Occupation,Product_Category
+U001,Aarav Reddy,P1008,Male,55+,58,Married,Gujarat,West,Retail,Electronics
+U002,Aditya Iyer,P1014,Male,55+,61,Married,Kerala,South,IT Sector,Footwear
+U003,Meera Sharma,P1018,Male,26-35,32,Single,Andhra Pradesh,South,Teacher,Books
+U004,Sneha Sharma,P1025,Male,46-55,55,Single,Himachal Pradesh,North,Government,Furniture
+U005,Amit Mehta,P1004,Male,26-35,27,Single,Punjab,North,IT Sector,Beauty
+U006,Ishaan Verma,P1024,Female,36-45,40,Married,Chhattisgarh,Central,Other,Sports
+U007,Shaurya Shah,P1029,Female,18-25,23,Married,Kerala,South,Retail,Electronics
+U008,Amit Nair,P1003,Male,18-25,20,Married,Haryana,North,Student,Furniture
+U009,Sai Das,P1012,Male,46-55,47,Single,Odisha,East,Retail,Electronics
+U010,Riya Joshi,P1006,Female,55+,56,Single,Delhi,North,Business,Home Decor
+U011,Karan Verma,P1008,Male,26-35,32,Single,West Bengal,East,Student,Furniture
+U012,Simran Iyer,P1029,Female,18-25,22,Married,Punjab,North,Homemaker,Books
+U013,Arjun Reddy,P1005,Male,36-45,43,Single,Tamil Nadu,South,Retail,Accessories
+U014,Aadhya Das,P1008,Male,36-45,45,Single,Jharkhand,East,IT Sector,Clothing
+U015,Rahul Yadav,P1026,Female,18-25,25,Married,Rajasthan,West,Student,Sports
+U016,Priya Reddy,P1018,Male,55+,56,Married,Tamil Nadu,South,Homemaker,Home Decor
+U017,Vihaan Nair,P1014,Male,26-35,35,Single,West Bengal,East,Healthcare,Furniture
+U018,Priya Patel,P1028,Female,46-55,50,Married,Delhi,North,Engineering,Beauty
+U019,Amit Malhotra,P1030,Male,26-35,28,Single,Kerala,South,Artist,Clothing
+U020,Vikram Nair,P1008,Male,18-25,25,Married,Odisha,East,Other,Accessories
+U021,Pooja Chauhan,P1027,Male,18-25,23,Married,Maharashtra,West,Engineering,Books
+U022,Ishaan Malhotra,P1028,Female,46-55,53,Married,Delhi,North,Other,Home Decor
+U023,Neha Nair,P1013,Female,55+,64,Single,Punjab,North,Other,Home Decor
+U024,Krishna Joshi,P1003,Female,46-55,46,Married,Gujarat,West,Accountant,Home Decor
+U025,Krishna Sharma,P1003,Male,26-35,32,Married,Jharkhand,East,IT Sector,Clothing
+U026,Priya Joshi,P1009,Female,36-45,39,Married,Maharashtra,West,Lawyer,Food
+U027,Kavya Chauhan,P1008,Female,55+,64,Single,Jharkhand,East,Teacher,Electronics
+U028,Diya Jain,P1014,Female,18-25,24,Married,Karnataka,South,Homemaker,Electronics
+U029,Pooja Mehta,P1026,Male,18-25,21,Married,Assam,North East,Teacher,Footwear
+U030,Arjun Jain,P1006,Female,46-55,52,Single,Tamil Nadu,South,Teacher,Electronics
+U031,Vihaan Verma,P1021,Male,46-55,46,Married,Kerala,South,Other,Footwear
+U032,Ira Chauhan,P1007,Female,26-35,28,Married,Karnataka,South,Engineering,Sports
+U033,Ishaan Rao,P1010,Female,18-25,18,Single,Assam,North East,Engineering,Footwear
+U034,Vivaan Iyer,P1024,Male,36-45,36,Single,Punjab,North,Healthcare,Clothing
+U035,Priya Malhotra,P1006,Male,46-55,55,Married,Telangana,South,Agriculture,Food
+U036,Aditya Joshi,P1013,Male,18-25,22,Married,Chhattisgarh,Central,Accountant,Accessories
+U037,Aditya Jain,P1022,Female,18-25,20,Single,Chhattisgarh,Central,Teacher,Beauty
+U038,Aadhya Gupta,P1022,Female,26-35,33,Single,Himachal Pradesh,North,Government,Electronics
+U039,Meera Iyer,P1004,Male,18-25,18,Married,Tamil Nadu,South,Lawyer,Furniture
+U040,Vikram Singh,P1029,Male,26-35,26,Single,Odisha,East,Business,Food
+U041,Neha Nair,P1020,Male,46-55,46,Single,Kerala,South,Other,Electronics
+U042,Vihaan Patel,P1024,Male,26-35,26,Single,Himachal Pradesh,North,Business,Accessories
+U043,Reyansh Reddy,P1017,Female,26-35,31,Single,West Bengal,East,Other,Clothing
+U044,Karan Reddy,P1002,Male,18-25,23,Single,Karnataka,South,Marketing,Food
+U045,Sai Rao,P1018,Female,55+,58,Married,Himachal Pradesh,North,IT Sector,Electronics
+U046,Riya Verma,P1027,Female,55+,62,Married,Rajasthan,West,Student,Food
+U047,Diya Verma,P1029,Female,18-25,20,Married,Bihar,East,Homemaker,Footwear
+U048,Diya Kapoor,P1029,Female,55+,60,Married,Gujarat,West,Other,Footwear
+U049,Vikram Jain,P1001,Male,26-35,28,Single,Delhi,North,Marketing,Sports
+U050,Ishaan Yadav,P1026,Male,55+,60,Single,Haryana,North,Agriculture,Clothing
+U051,Reyansh Rao,P1012,Female,46-55,48,Married,Haryana,North,Teacher,Clothing
+U052,Aadhya Mehta,P1009,Male,55+,60,Single,Punjab,North,Government,Home Decor
+U053,Ananya Sharma,P1004,Female,36-45,43,Married,Kerala,South,Accountant,Furniture
+U054,Meera Jain,P1012,Female,18-25,20,Single,Gujarat,West,Accountant,Home Decor
+U055,Vikram Iyer,P1007,Female,18-25,25,Married,Assam,North East,Retail,Sports
+U056,Simran Kapoor,P1022,Male,18-25,18,Single,Andhra Pradesh,South,Student,Electronics
+U057,Meera Mehta,P1022,Male,55+,60,Single,West Bengal,East,Lawyer,Furniture
+U058,Ananya Mishra,P1023,Female,55+,60,Married,Karnataka,South,Teacher,Sports
+U059,Rohan Yadav,P1020,Female,55+,60,Single,Assam,North East,Lawyer,Clothing
+U060,Reyansh Jain,P1026,Female,36-45,37,Single,Bihar,East,Artist,Books
+U061,Priya Chauhan,P1026,Male,55+,61,Married,Punjab,North,Business,Home Decor
+U062,Ananya Singh,P1027,Male,55+,60,Single,Chhattisgarh,Central,Teacher,Footwear
+U063,Vivaan Joshi,P1016,Male,26-35,27,Single,Uttar Pradesh,Central,Student,Accessories
+U064,Ira Mishra,P1008,Male,26-35,30,Married,Assam,North East,Other,Electronics
+U065,Sai Malhotra,P1015,Male,36-45,45,Married,Haryana,North,Other,Electronics
+U066,Sneha Rao,P1022,Female,46-55,47,Single,Rajasthan,West,Accountant,Home Decor
+U067,Pari Yadav,P1024,Female,36-45,45,Single,Kerala,South,Business,Footwear
+U068,Amit Malhotra,P1016,Male,55+,58,Single,Himachal Pradesh,North,Artist,Electronics
+U069,Krishna Reddy,P1011,Female,55+,63,Married,Bihar,East,Engineering,Food
+U070,Neha Gupta,P1023,Male,26-35,32,Married,Assam,North East,Student,Sports
+U071,Pari Jain,P1002,Male,36-45,39,Single,Kerala,South,Student,Accessories
+U072,Nisha Iyer,P1013,Female,55+,62,Married,Uttar Pradesh,Central,Government,Furniture
+U073,Riya Kapoor,P1026,Male,36-45,42,Single,Karnataka,South,Teacher,Furniture
+U074,Aarav Mishra,P1011,Female,36-45,45,Married,Telangana,South,Agriculture,Books
+U075,Riya Sharma,P1030,Female,26-35,26,Married,Chhattisgarh,Central,IT Sector,Sports
+U076,Sai Verma,P1009,Female,26-35,26,Single,Tamil Nadu,South,Teacher,Books
+U077,Amit Mishra,P1009,Female,36-45,38,Single,West Bengal,East,Agriculture,Electronics
+U078,Pooja Kapoor,P1002,Female,46-55,48,Married,Uttar Pradesh,Central,Homemaker,Electronics
+U079,Amit Sharma,P1008,Male,55+,59,Married,Madhya Pradesh,Central,Accountant,Food
+U080,Ira Patel,P1019,Male,26-35,33,Single,Rajasthan,West,Retail,Furniture
+U081,Meera Shah,P1024,Male,36-45,41,Married,Delhi,North,Business,Electronics
+U082,Simran Nair,P1019,Female,46-55,55,Single,Uttar Pradesh,Central,Retail,Footwear
+U083,Neha Joshi,P1004,Female,18-25,22,Married,Jharkhand,East,Marketing,Accessories
+U084,Riya Jain,P1022,Female,18-25,20,Married,Odisha,East,Lawyer,Beauty
+U085,Karan Chauhan,P1004,Female,18-25,18,Single,Karnataka,South,Homemaker,Books
+U086,Saanvi Yadav,P1024,Female,55+,63,Single,Rajasthan,West,Artist,Sports
+U087,Ishaan Mehta,P1028,Male,55+,64,Married,Jharkhand,East,Business,Books
+U088,Kavya Shah,P1022,Female,26-35,33,Single,Tamil Nadu,South,Healthcare,Books
+U089,Ira Kumar,P1012,Female,36-45,38,Single,Delhi,North,Business,Accessories
+U090,Riya Sharma,P1017,Male,55+,62,Married,Himachal Pradesh,North,Teacher,Sports
+U091,Amit Joshi,P1023,Female,46-55,49,Single,Kerala,South,Artist,Clothing
+U092,Krishna Mishra,P1023,Male,18-25,23,Single,Bihar,East,Homemaker,Accessories
+U093,Riya Malhotra,P1012,Female,36-45,41,Single,Telangana,South,Government,Books
+U094,Ishaan Joshi,P1004,Male,26-35,35,Single,Bihar,East,IT Sector,Home Decor
+U095,Reyansh Kumar,P1024,Female,55+,62,Single,Delhi,North,Retail,Accessories
+U096,Shaurya Patel,P1027,Male,46-55,51,Single,Chhattisgarh,Central,Teacher,Beauty
+U097,Aarav Kapoor,P1005,Female,26-35,29,Married,Bihar,East,Healthcare,Home Decor
+U098,Rahul Chauhan,P1004,Male,36-45,36,Single,Rajasthan,West,Artist,Books
+U099,Sai Verma,P1009,Female,46-55,46,Married,West Bengal,East,Agriculture,Electronics
+U100,Aditya Iyer,P1021,Male,36-45,43,Married,Telangana,South,Engineering,Accessories
